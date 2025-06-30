@@ -2,7 +2,7 @@
 
 Design and Layout implementation of a high-performance two-stage Operational Amplifier (OPAMP) using 180nm semiconductor technology. Achieved required gain, bandwidth, and power efficiency through simulatio.
 # Circuit Diagram
-![link to image](https://drive.google.com/file/d/15vTvmyoz7TlK8qUIJq2KOoga5Lap3BD9/view?usp=drive_link)
+### [This text links to circuit diagram](https://drive.google.com/file/d/15vTvmyoz7TlK8qUIJq2KOoga5Lap3BD9/view?usp=drive_link)
 
 # Design-Specification
 Vdd = 1.8V <br>
